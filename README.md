@@ -128,4 +128,4 @@ Sensível a outliers: Pode ser influenciado negativamente por valores extremos n
 'Gross': '28,341,469'}
 
 Qual seria a nota do IMDB?
--Analisando pelo que nos temos no DataFrame, pelos numeros de votos, elenco, genero e o overview a nota poderia estar entre 7 e 8
+-Analisando pelo que nos temos de número de votos fazer a mediana desse filme seria 8.32 como podemos analisar no notebook
