@@ -1,0 +1,13 @@
+-A maioria dos filmes foram lançados a partir da década de 1970, com um aumento na produção de filmes em anos mais recentes.
+-Hipótese: Filmes mais recentes podem ter uma correlação com notas mais altas no IMDb devido a uma base de usuários mais ativa e conectada.
+
+-Existe uma grande variação no número de votos, sugerindo que alguns filmes são muito mais populares que outros.
+-Hipótese: Filmes com diretores ou atores famosos podem ter um número maior de votos, influenciando positivamente a nota do IMDb.
+
+-Os 30 primeiros filmes com imdb alto, são filmes com mais atores conhecidos entre as 5 estrelas do filmes
+
+-A maioria dos filmes com melhores imdb foram lançados antes dos anos 2000
+
+-As notas variam em um intervalo relativamente estreito (7.6 a 9.2), com uma média de 7.95.
+-Hipótese: Filmes com mais votos tendem a ter uma nota mais alta, pois um maior número de votos pode indicar uma maior popularidade e qualidade percebida.
+Os 100 melhor filmes (imdb) tem uma media de votos de 729,458.14 votos cada, enquanto filmes com os "piores" imdb 195,368.75
